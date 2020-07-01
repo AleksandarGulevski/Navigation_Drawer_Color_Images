@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Navigation_Drawer_Color_Images</string>
+    <string name="navigation_header">Navigation header</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="den">Den of Developers</string>
 </resources>
